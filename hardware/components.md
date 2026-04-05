@@ -10,3 +10,7 @@ The system consists of the following components:
 - IR Sensor  
 - Push Buttons (Pause and End)  
 - 3.7V LiPo Battery  
+
+
+## Block Diagram
+![Block Diagram](block_diagram.png)
