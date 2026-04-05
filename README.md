@@ -1,4 +1,4 @@
-# Smart Cycle Lock System
+# Advanced Cycle Lock System
 
 A smart locking system for rental cycles that enables secure access using OTP-based authentication with time-based billing.
 
